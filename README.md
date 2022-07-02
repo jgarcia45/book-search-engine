@@ -7,15 +7,15 @@
 ![Technologies](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Technologies](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
+![Technologies](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
+![Technologies](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=ApolloGraphQL&logoColor=white)
+![Technologies](https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![Technologies](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 
 ## Description
-Developed a portfolio using React so that we can be set apart from other developers who don't use the latest technologies. The React portfolio will be deployed on GitHub Pages.
 
 ## Installation
 ***Requirments***
@@ -28,9 +28,6 @@ Developed a portfolio using React so that we can be set apart from other develop
 3. Run the command ```npm install``` to download the packages.
 4. Then run the command ```npm start``` to run the software.
 5. The application will then begin to run locally.
-
-## React Documentation
-[React](./React.md)
 
 ## User Story
 ```
@@ -73,7 +70,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Screenshot
-![Homepage]()
+![Homepage](./homepage.png)
 
 ## Link
 A link to the [code](https://github.com/jgarcia45/book-search-engine):
@@ -81,9 +78,9 @@ A link to the [code](https://github.com/jgarcia45/book-search-engine):
 https://github.com/jgarcia45/book-search-engine
 ```
 
-A link to the [Deployed Application](https://bearded-moose-87044.herokuapp.com/):
+A link to the [Deployed Application](https://friendly-bunnyhug-65826.herokuapp.com/):
 ```
-https://bearded-moose-87044.herokuapp.com/
+https://friendly-bunnyhug-65826.herokuapp.com/
 ```
 
 ## License

@@ -81,9 +81,9 @@ A link to the [code](https://github.com/jgarcia45/book-search-engine):
 https://github.com/jgarcia45/book-search-engine
 ```
 
-A link to the [Deployed Application]():
+A link to the [Deployed Application](https://bearded-moose-87044.herokuapp.com/):
 ```
-
+https://bearded-moose-87044.herokuapp.com/
 ```
 
 ## License

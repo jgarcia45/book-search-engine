@@ -16,7 +16,7 @@
 ![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 
 ## Description
-Refactor a Google Books API search engine to be a GraphQL API built with Apollo Server. The application will be built using the MERN stack and deployed to Heroku.
+Refactored a Google Books API search engine to be a GraphQL API built with Apollo Server. The application will be built using the MERN stack and deployed to Heroku.
 
 ## Installation
 ***Requirments***
